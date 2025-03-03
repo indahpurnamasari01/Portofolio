@@ -8,11 +8,11 @@ function About() {
         <img
           src="../src\assets\image\IMG_1206-removebg-preview.png"
           alt="Profile"
-          className="h- w- rounded-shadow-xl object-cover"
+          className="h- w- rounded shadow-xl object-cover"
         />
       </div>
       <div className="md:w-2/3 mt-10 md:mt-2 md:pl-10 text-center md:text-left">
-        <h2 className="font-sans text-4xl font-bold text-white-900">Tentang Saya</h2>
+        <h2 className="font-sans text-4xl font-bold text-white">Tentang Saya</h2>
         <p className="mt-6 text-lg text-white leading-relaxed">
                  Saya seorang <span className="font-semibold text-black">Mahasiswi Teknik Informatika</span> yang sangat suka eksplor hal baru dan
           memiliki ketertarikan dalam dunia organisasi, traveling, serta selalu bersemangat dalam mempelajari 
