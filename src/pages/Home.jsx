@@ -14,7 +14,7 @@ function Home() {
         transition={{ duration: 0.8 }}
       >
         <img
-          src="../src/assets/image/IMG_8103-removebg-preview.png"
+          src="/image/IMG_8103-removebg-preview.png"
           alt="Profile"
           className="w-60 md:w-60 lg:w-120 rounded-full shadow-2xl border-4 border-white object-cover"
         />

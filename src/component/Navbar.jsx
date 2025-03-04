@@ -11,7 +11,7 @@ function Navbar() {
       <div className="container mx-auto flex items-center justify-between">
       
         <div className="flex items-center gap-2">
-          <img src="./src/assets/image/11zon_cropped.png" alt="Logo" className="h-12 w-12 rounded-full shadow-md" />
+          <img src="/image/11zon_cropped.png" alt="Logo" className="h-12 w-12 rounded-full shadow-md" />
           <h1 className="text-xl font-bold">My Portfolio</h1>
         </div>
 

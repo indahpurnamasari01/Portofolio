@@ -6,7 +6,7 @@ function About() {
     >
       <div className="md:w-1/3 flex justify-center">
         <img
-          src="../src\assets\image\IMG_1206-removebg-preview.png"
+          src="/image/IMG_1206-removebg-preview.png"
           alt="Profile"
           className="h- w- rounded shadow-xl object-cover"
         />

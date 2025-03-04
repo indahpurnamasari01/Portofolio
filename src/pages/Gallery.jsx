@@ -1,13 +1,13 @@
 function Gallery() {
   const images = [
-    "src/assets/image/IMG_8072 (1).JPG",
-    "src/assets/image/DSC06431 (1).JPG",
-    "src/assets/image/WhatsApp Image 2025-01-07 at 19.58.35_8399da30.jpg",
-    "src/assets/image/WhatsApp Image 2025-01-07 at 14.10.04_216fa541.jpg",
-    "src/assets/PXL_20221222_113926910.PORTRAIT.jpg",
-    "src/assets/image/WhatsApp Image 2024-11-15 at 13.22.51_4f33c65c.jpg",
-    "src/assets/image/IMG20230928134628_00.jpg",
-    "src/assets/image/Screenshot 2025-03-02 095029.png"
+    "/image/IMG_8072 (1).JPG",
+    "/image/DSC06431 (1).JPG",
+    "/image/WhatsApp Image 2025-01-07 at 19.58.35_8399da30.jpg",
+    "/image/WhatsApp Image 2025-01-07 at 14.10.04_216fa541.jpg",
+    "/image/PXL_20221222_113926910.PORTRAIT.jpg",
+    "/image/WhatsApp Image 2024-11-15 at 13.22.51_4f33c65c.jpg",
+    "/image/IMG20230928134628_00.jpg",
+    "/image/Screenshot 2025-03-02 095029.png"
 ];
 
   
